@@ -1,2 +1,2 @@
 # classifiercomparison
-Final project for Cogs 118a (Supervised Machine Learning Algorithms) @ UC San Diego. 
+Empirical comparison of different classification algorithms based on performance metrics for text classification data sets
